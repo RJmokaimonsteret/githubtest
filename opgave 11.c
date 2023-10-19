@@ -24,4 +24,8 @@ printf("de tre sider er %lf/n %lf/n %lf/n", side1, side2, h);
 
 return 0;
 
+
+//hej hej hej
+
+
 }
